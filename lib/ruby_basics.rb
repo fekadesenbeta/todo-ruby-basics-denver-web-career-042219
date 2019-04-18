@@ -22,6 +22,7 @@ end
 
 def return_a_value
   value = "Nice"
+  return value
 
 end
 
