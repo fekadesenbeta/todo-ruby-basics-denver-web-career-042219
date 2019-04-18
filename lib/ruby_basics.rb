@@ -1,5 +1,5 @@
 def division(num1, num2)
-   42 / 7
+  sum = 42 / 7
  
 end
 
